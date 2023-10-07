@@ -1,5 +1,4 @@
 ## 👋 丘秋_XT
----
 ### ✨ 独立产品
 - [小秋AI](https://www.xqai.net/)
 - [小秋标签页](https://www.xqss.link/website)
