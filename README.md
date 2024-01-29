@@ -1,5 +1,5 @@
 ## 👨‍💻 个人网站
-- [小秋](https://www.xqiu.net/)
+- [小秋 Xqiu.net](https://www.xqiu.net/)
   
 ## ✨ 独立产品
 - [小秋AI](https://www.xqai.net/)
